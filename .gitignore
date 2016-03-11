@@ -1,0 +1,15 @@
+# Fichiers et dossiers d'IntelliJ IDEA
+.idea
+*.iml
+*.eml
+*.ipr
+*.iws
+
+# Fichiers et dossiers d'Eclipse
+.settings
+.classpath
+.project
+
+# Fichiers compilés
+target
+bin
